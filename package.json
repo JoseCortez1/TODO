@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for TODO Aplication with the stack PERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCortez1/TODO.git"
+  },
+  "author": "JoseCortez1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseCortez1/TODO/issues"
+  },
+  "homepage": "https://github.com/JoseCortez1/TODO#readme"
+}
